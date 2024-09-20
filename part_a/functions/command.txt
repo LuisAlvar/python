@@ -1,0 +1,1 @@
+C:/Users/alvar/AppData/Local/Programs/Python/Python312/python.exe c:/python/Tutorials/Chapter3/collatzSequence.py
