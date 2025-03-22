@@ -38,7 +38,7 @@ legend_colors = ['red', 'green', 'blue']
 for label, color in zip(legend_labels, legend_colors):
     ax.scatter([], [], [], label=label, color=color)  # Invisible points for legend
 
-ax.legend(loc='upper right')
+ax.legend(loc='lower right')
 
 # Display the plot
 plt.show()

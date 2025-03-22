@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 
 # Coordinates of the 3D point
-x, y, z = 3, 3, 3
+x, y, z = 2, 3, 5
 
 # Create a new figure for 3D plotting
 fig = plt.figure()
