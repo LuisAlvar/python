@@ -5,7 +5,6 @@ This project visualizes cylindrical coordinates derivation through sequential an
 1. **2D Animation**: Rotation of a vector \( r \) in the \( xy \)-plane to reach a point **Point P**.
 2. **3D Animation**: Movement of a point **Point P'** along the \( z \)-axis.
 3. **Static Cylinder**: Final rendering of a transparent blue cylinder around the \( z \)-axis, matching the radius and height of **Point P'**.
-
 ---
 
 ## Project Overview
@@ -160,3 +159,5 @@ self.ax.plot_surface(x, y, z, rstride=1, cstride=1, alpha=0.3, color='blue', edg
 This project visualizes the concept of cylindrical coordinates step-by-step through Python animations and interactive 3D plotting. The clear logic and modular code structure make it both efficient and intuitive, even for intermediate Python users.
 
 Feel free to use or refine this Markdown report as needed! 😊
+
+As you can see! This project represents a collaboration with Microsoft AI Copilot. Although my Python skills are a work in progress, Copilot has helped me expand my understanding of the language and push my boundaries. With creativity and the ability to troubleshoot errors, you can achieve results like these. Now, it's time to dive deeper into the code and review it thoroughly.
